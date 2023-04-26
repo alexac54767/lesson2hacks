@@ -1,3 +1,4 @@
+<meta charset="UTF-8">
 <html>
     <head>
         <meta charset="utf-8">
@@ -17,11 +18,11 @@
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>Alexa Carlson</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                Allstar cheerleader that is missing way too much school for worlds and summit &#128557;	&#128535;&#9996;
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://github.com/alexac54767" class="button">My Github!</a>
             </div>
           </article>
         </main>
