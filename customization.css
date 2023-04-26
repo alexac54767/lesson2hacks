@@ -65,12 +65,12 @@ p {
 .button{
     display: inline-block;
     text-decoration: none;
-    color: #f00808;
+    color: #4fbded;
     border: 1px solid #6f0505;
     padding: 12px 34px;
     font-size: 13px;
     background: transparent;
-    position: relative;
+    position: center;
     cursor: pointer;
  }
  /*when the inv-btn is hovered by the cursor then there will be a different color, this is similar to the underline of the cta buttons*/

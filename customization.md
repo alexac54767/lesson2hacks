@@ -12,8 +12,8 @@
 <body>
         <main>
           <article class="profile">
-            <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
+            <picture class="AlexaPic.jpg">
+              <source srcset="images/AlexaPic.jpg" media="(min-width: 600px)">
               <img src="images/AlexaPic.jpg" alt="profile">
             </picture>
             <div class="content">

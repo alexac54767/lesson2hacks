@@ -163,3 +163,8 @@ $(document).ready(function(){
 </script>
 </body>
 </html>
+
+<html>
+<img src="images/AlexaSnakeSelfie.JPG" alt="Alexa's Selfie with Score" height=300>
+<img src="images/SnakeScore.JPG" alt="Alexa's Snake Score (25)" height=300>
+</html>
